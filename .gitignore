@@ -1,6 +1,4 @@
 # Example .gitignore file for your config dir.
-# A * ensures that everything will be ignored.
-*
 
 # You can whitelist files/folders with !, these will not be ignored.
 !*.yaml
